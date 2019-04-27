@@ -1,0 +1,27 @@
+nav.navbar {
+    margin-bottom: 0;
+     font-size: 20px ;
+     height:80px;
+     width:100%;
+     color:blue
+    }
+    .logo{
+      width: 150px;
+     
+    }
+   
+  
+  
+  
+  
+  .btn{
+   float:right;
+   margin-left: 500px;
+   height:40px;
+   font-size:20px;
+   background-color: #00d8ff
+  }
+  .glyphicon{
+    font-size:30px;
+   
+  }
